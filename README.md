@@ -23,16 +23,16 @@ El modelo de datos integra una tabla de hechos de ventas con tres tablas dimensi
 - `dashboard/Proyecto_Sprint_11.pbix`
   → Archivo de Power BI con el modelo de datos en esquema estrella, medidas DAX y las tres vistas del dashboard (Overview Ejecutivo, Análisis Comercial y Análisis de Cohortes).
 
-- `images/overview_ejecutivo.png`
+- `assets/overview_ejecutivo.png`
   → Captura de la vista Overview Ejecutivo con KPIs, evolución temporal e ingreso por ciudad.
 
-- `images/analisis_comercial.png`
+- `assets/analisis_comercial.png`
   → Captura de la vista Análisis Comercial con ingreso por tipo de propiedad, canal de venta y segmento de comprador.
 
-- `images/analisis_cohortes.png`
+- `assets/analisis_cohortes.png`
   → Captura de la vista Análisis de Cohortes con matriz de retención e ingreso total por cohorte mensual.
 
-- `images/modelo_datos.png`
+- `assets/modelo_datos.png`
   → Captura del esquema estrella con las relaciones entre tablas en Power BI.
 
 ---
