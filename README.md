@@ -119,11 +119,8 @@ Construir un dashboard ejecutivo en Power BI que permita a Andes Capital Real Es
 
 ---
 👤 Autor
-Juan Castelblanco - Analista de Datos - ConnectaTel
-Sprint 7 - Análisis de Comportamiento de Clientes 2024
+Juan Castelblanco - Analista de Datos
 
 📝 Licencia
 Este proyecto es de uso educativo y forma parte del programa de análisis de datos.
 
-*Análisis basado en transacciones inmobiliarias 2023–2025 | Andes Capital Real Estate – Data Analytics Team*  
-*Fecha de análisis: Marzo 2026*
